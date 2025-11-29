@@ -1,0 +1,14 @@
+Copy the below
+Paste it in "Dashboard > General > Custom CSS code"
+Save at the bottom of the page
+Reload the browser
+
+.starRatingContainer.mediaInfoItem,
+
+.mediaInfoCriticRating.mediaInfoCriticRatingFresh,
+
+.mediaInfoCriticRating.mediaInfoCriticRatingRotten {
+
+     display: none;
+
+}
